@@ -2,7 +2,7 @@
 # Outlook Email Checker
 
 This tool checks if email addresses are available for use with **Outlook** or **Hotmail**. It performs a quick check to determine whether an email address is available, printing the result without the need for proxies, restrictions, or delays.
-# Feel free to contact me in instagram @_0x0 or telegaram @iwannakillyoudumb
+## Feel free to contact me in instagram @_0x0 or telegaram @iwannakillyoudumb
 
 ## Features
 
